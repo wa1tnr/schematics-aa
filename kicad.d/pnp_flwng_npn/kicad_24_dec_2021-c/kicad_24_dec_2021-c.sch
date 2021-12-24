@@ -601,7 +601,7 @@ L Device:D_Schottky D?
 U 1 1 61DC0D35
 P 2000 2000
 F 0 "D?" V 2046 1920 50  0000 R CNN
-F 1 "D_Schottky" V 1955 1920 50  0000 R CNN
+F 1 "Schottky" V 1950 2450 50  0001 R CNN
 F 2 "" H 2000 2000 50  0001 C CNN
 F 3 "~" H 2000 2000 50  0001 C CNN
 	1    2000 2000
@@ -678,4 +678,6 @@ F 3 "~" H 2500 2300 50  0001 C CNN
 	1    2500 2300
 	-1   0    0    -1  
 $EndComp
+Text Notes 3450 2050 0    50   ~ 0
+171.435 nA
 $EndSCHEMATC
